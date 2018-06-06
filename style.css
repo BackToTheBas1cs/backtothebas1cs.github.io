@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css?family=Pacifico");
+#index {
+	background: url(bg.jpg) no-repeat center center fixed;
+	background-size: cover;
+	text-align: center;
+	font-family: Pacifico, cursive;
+	color: white;
+	margin-top: 340px;
+}
+
+#reg {
+	background: url(reg.jpg) no-repeat center center fixed;
+	background-size: cover;
+	text-align: left;
+	margin-left: 200px;
+	margin-top: 10%;
+	padding: 4px; 
+}
+
+.reg {
+	padding: 3px;
+	margin: 5px;
+}
+.regbutton {
+	width: 94px;
+	border: 0px;
+	border-radius: 5px;
+	margin: 2px;
+	font-family: Pacifico, cursive;
+	color: white;
+	
+}
